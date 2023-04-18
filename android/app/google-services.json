@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810990025816",
+    "project_id": "flash-chat-88983",
+    "storage_bucket": "flash-chat-88983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810990025816:android:f590504a6b59afb57b9e2d",
+        "android_client_info": {
+          "package_name": "com.bkray.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810990025816-ng295nvd2ng0sk18puu9qicl66a3e5vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfuKa3m1_s4EhsM5T_8ttCUfvXKeqhIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810990025816-ng295nvd2ng0sk18puu9qicl66a3e5vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
